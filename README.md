@@ -50,29 +50,28 @@ com soluções tecnológicas.
 
 ---
 
-
 ## 🧰 Linguagens e tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" title="Java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" title="JavaScript" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" title="C#" alt="C Sharp"/>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" title="C" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" title="Python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" title="HTML5" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" title="MySQL" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40" title="SQLite" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET" alt=".NET"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="Visual Studio Code" alt="Visual Studio Code"/>
-  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="40" title="Eclipse" alt="Eclipse"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/canva/6C63FF" width="40" title="Canva" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" title="Claude" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" title="Claude Code" alt="Claude Code"/>
+  <img src="https://devicons.io/devicons/icons/java.svg" width="40" height="40" title="Java" alt="Java"/>
+  <img src="https://devicons.io/devicons/icons/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://devicons.io/devicons/icons/csharp.svg" width="40" height="40" title="C#" alt="C Sharp"/>
+  <img src="https://devicons.io/devicons/icons/c.svg" width="40" height="40" title="C" alt="C"/>
+  <img src="https://devicons.io/devicons/icons/python.svg" width="40" height="40" title="Python" alt="Python"/>
+  <img src="https://devicons.io/devicons/icons/html5.svg" width="40" height="40" title="HTML5" alt="HTML5"/>
+  <img src="https://devicons.io/devicons/icons/css.svg" width="40" height="40" title="CSS3" alt="CSS3"/>
+  <img src="https://devicons.io/devicons/icons/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL"/>
+  <img src="https://devicons.io/devicons/icons/sqlite.svg" width="40" height="40" title="SQLite" alt="SQLite"/>
+  <img src="https://devicons.io/devicons/icons/dotnet.svg" width="40" height="40" title=".NET" alt=".NET"/>
+  <img src="https://devicons.io/devicons/icons/visual-studio.svg" width="40" height="40" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code"/>
+  <img src="https://devicons.io/devicons/icons/eclipse.svg" width="40" height="40" title="Eclipse" alt="Eclipse"/>
+  <img src="https://devicons.io/devicons/icons/git.svg" width="40" height="40" title="Git" alt="Git"/>
+  <img src="https://devicons.io/devicons/icons/github.svg" width="40" height="40" title="GitHub" alt="GitHub"/>
+  <img src="https://devicons.io/devicons/icons/figma.svg" width="40" height="40" title="Figma" alt="Figma"/>
+  <img src="https://devicons.io/devicons/icons/canva.svg" width="40" height="40" title="Canva" alt="Canva"/>
+  <img src="https://devicons.io/devicons/icons/claude.svg" width="40" height="40" title="Claude" alt="Claude"/>
+  <img src="https://devicons.io/devicons/icons/claude-code.svg" width="40" height="40" title="Claude Code" alt="Claude Code"/>
 </p>
 
 ---
