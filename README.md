@@ -24,9 +24,10 @@
   </a>
   
 <a href="https://www.linkedin.com/in/claudio-pacheco-/" target="_blank">
-  <img src="./assets/linkedin.png" alt="LinkedIn"
-       width="20" height="20"
-       style="vertical-align: middle; border-radius: 4px;">
+  <span style="display:inline-flex; align-items:center; background:#0A66C2; color:white; padding:6px 12px; border-radius:5px; height:28px;">
+    <img src="./assets/linkedin.png" alt="Logo LinkedIn" width="18" height="18" style="margin-right:8px;">
+    <strong>LinkedIn</strong>
+  </span>
 </a>
   
   <a href="https://judge.beecrowd.com/pt/profile/1219073">
