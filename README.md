@@ -50,14 +50,34 @@ com soluções tecnológicas.
 
 ---
 
+
 ## 🧰 Linguagens e tecnologias
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,js,cs,c,py,mysql,sqlite,dotnet,visualstudio,eclipse,git,github,figma&theme=dark"
-    alt="Java, JavaScript, C Sharp, C, Python, MySQL, SQLite, .NET, Visual Studio, Eclipse, Git, GitHub e Figma"
-  />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" title="C#" alt="C Sharp"/>
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" title="C" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" title="HTML5" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" title="MySQL" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40" title="SQLite" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="40" title=".NET" alt=".NET"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="40" title="Eclipse" alt="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" alt="Figma"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" title="Canva" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" title="Claude" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude_Code-282828?style=flat-square&logo=anthropic&logoColor=white" title="Claude Code" alt="Claude Code"/>
+</p>
+
+---
 
 ### Conhecimentos
 
