@@ -72,8 +72,9 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" title="Claude" alt="Claude" style="background-color: #1e2430; border-radius: 12px; padding: 4px;"/>
-  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" title="Claude Code" alt="Claude Code" style="background-color: #1e2430; border-radius: 12px; padding: 4px;"/>
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" title="Claude" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" title="Claude Code" alt="Claude Code"/>
+  
 </p>
 
 ---
