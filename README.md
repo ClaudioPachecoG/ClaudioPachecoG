@@ -26,9 +26,9 @@
   <a href="https://www.linkedin.com/in/claudio-pacheco-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  
   <a href="https://judge.beecrowd.com/pt/profile/1219073">
-    <img src="https://img.shields.io/badge/beecrowd-Perfil-6C3BAA?style=for-the-badge&logoColor=white" alt="beecrowd"/>
+    <img src="https://img.shields.io/badge/beecrowd-6C3BAA?style=for-the-badge&logoColor=white" alt="beecrowd"/>
   </a>
 </p>
 
