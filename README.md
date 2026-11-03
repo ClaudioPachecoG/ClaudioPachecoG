@@ -99,6 +99,8 @@ com soluções tecnológicas.
 
 ## 🚀 Projetos acadêmicos
 
+---
+
 ### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
 
 Projeto acadêmico em desenvolvimento para centralizar
