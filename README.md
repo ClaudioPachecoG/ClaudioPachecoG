@@ -61,6 +61,7 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=python&theme=dark" height="48" title="Python" alt="Python"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=html&theme=dark" height="48" title="HTML5" alt="HTML5"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=css&theme=dark" height="48" title="CSS3" alt="CSS3"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=php&theme=dark" height="48" title="PHP" alt="PHP"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql&theme=dark" height="48" title="MySQL" alt="MySQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=sqlite&theme=dark" height="48" title="SQLite" alt="SQLite"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
@@ -71,16 +72,8 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>
-  <table align="center">
-    <tr>
-      <td bgcolor="#1e2430" align="center">
-        <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" title="Claude" alt="Claude"/>
-      </td>
-      <td bgcolor="#1e2430" align="center">
-        <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" title="Claude Code" alt="Claude Code"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" title="Claude" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" title="Claude Code" alt="Claude Code"/>
 
 </p>
 
