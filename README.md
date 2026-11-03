@@ -97,7 +97,7 @@ com soluções tecnológicas.
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos acadêmicos 
 
 ### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
 
