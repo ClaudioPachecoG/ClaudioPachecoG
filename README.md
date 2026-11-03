@@ -1,21 +1,29 @@
 
-<h1 align="center">Olá! Eu sou Claudio Pacheco 👋</h1>
+<h1 align="center">Claudio Pacheco Mota Guedes</h1>
 
 <h3 align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Fatec
 </h3>
 
 <p align="center">
-  Desenvolvedor em formação, interessado em tecnologia,
-  desenvolvimento de software e design de interfaces.
+  Desenvolvimento de software · Front-End · Design de interfaces
 </p>
 
 <p align="center">
   <a href="https://github.com/ClaudioPachecoG">
-    <img src="https://img.shields.io/badge/GitHub-ClaudioPachecoG-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
-    <img src="https://img.shields.io/badge/Certificados-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
+    <img src="https://img.shields.io/badge/Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/claud_pachecog/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/claudio-pacheco-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -23,28 +31,28 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Me chamo Claudio Pacheco Mota Guedes e sou estudante de
-Análise e Desenvolvimento de Sistemas na Fatec Prof. Waldomiro May,
-em Cruzeiro/SP.
+Sou estudante de Análise e Desenvolvimento de Sistemas na
+Fatec Prof. Waldomiro May, em Cruzeiro/SP.
 
 Tenho interesse em desenvolvimento de software, especialmente
-Java e JavaScript, além de Front-End, design de interfaces
-e identidade visual.
+em Java e JavaScript, além de desenvolvimento Front-End,
+design de interfaces e identidade visual.
 
 Atualmente, participo de projetos acadêmicos em grupo,
-aplicando conhecimentos de programação, modelagem de sistemas
-e desenvolvimento de interfaces.
+nos quais aplico conhecimentos de programação, modelagem
+de sistemas e desenvolvimento de interfaces.
 
-Também possuo experiência profissional como Auxiliar Administrativo,
-com atuação em organização de dados, sistemas administrativos,
-documentação e atendimento.
+Também possuo experiência profissional como Auxiliar
+Administrativo, com atuação em organização de dados,
+sistemas administrativos, documentação e atendimento.
 
-🎯 Busco oportunidades de estágio em Desenvolvimento de Software,
-para ampliar meus conhecimentos e contribuir com projetos reais.
+🎯 Busco uma oportunidade de estágio em Desenvolvimento
+de Software para ampliar meus conhecimentos e contribuir
+com soluções tecnológicas.
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🧰 Linguagens e tecnologias
 
 <p align="center">
   <img
@@ -62,54 +70,60 @@ para ampliar meus conhecimentos e contribuir com projetos reais.
 - **Banco de dados:** MySQL e SQLite.
 - **Versionamento:** Git e GitHub.
 - **Design:** Figma, Canva, identidade visual e prototipação.
-- **Modelagem:** UML e Astah.
+- **Modelagem de sistemas:** UML e Astah.
 
 ---
 
-## 🚀 Projetos Acadêmicos
+## 🚀 Projetos acadêmicos
 
 ### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
 
-Sistema acadêmico em desenvolvimento para centralizar informações
-dos animais do Centro de Apoio ao Animal (CEAN), em Cruzeiro/SP.
+Projeto acadêmico em desenvolvimento para centralizar
+as informações dos animais do Centro de Apoio ao Animal
+(CEAN), em Cruzeiro/SP.
 
-O projeto contempla cadastro de animais, gerenciamento de canil,
-localização, lares temporários e adoção, acompanhando o animal
-desde o registro até seu destino final.
+A proposta contempla o cadastro e o acompanhamento dos
+animais, incluindo informações sobre canil, localização,
+lares temporários e adoção, desde o registro até seu
+destino final.
 
-**Minha atuação:**
-- Desenvolvimento Front-End.
-- Design das interfaces.
-- Definição de paleta de cores e identidade visual.
+**Minha contribuição:**
+- Desenvolvimento de interfaces (Front-End).
+- Criação e prototipação das interfaces.
+- Definição da paleta de cores e identidade visual.
 
-**Tecnologias:** C#, .NET MAUI, XAML, SQLite, Git e GitHub.
+**Tecnologias:** C#, .NET MAUI, XAML, SQLite,
+Git e GitHub.
 
-🔗 [Consultar meus repositórios](https://github.com/ClaudioPachecoG)
+🔗 [Acessar meus repositórios](https://github.com/ClaudioPachecoG)
 
 ---
 
 ### 🌱 Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
-Projeto acadêmico em desenvolvimento voltado ao cadastro e
-monitoramento de áreas de reflorestamento, incluindo localização,
+Projeto acadêmico em desenvolvimento para o cadastro
+e monitoramento de áreas de reflorestamento.
+
+A solução contempla informações sobre localização,
 espécies plantadas, evolução do plantio, fauna silvestre,
 registros fotográficos e indicadores estatísticos.
 
-Desenvolvido em parceria com a Collard, consultoria ambiental,
-e o Sindicato Rural de Cruzeiro.
+O projeto é desenvolvido em parceria com a Collard,
+consultoria ambiental, e o Sindicato Rural de Cruzeiro.
 
-**Minha atuação:**
-- Desenvolvimento Front-End.
-- Design das interfaces.
-- Identidade visual.
+**Minha contribuição:**
+- Desenvolvimento de interfaces (Front-End).
+- Criação e prototipação das interfaces.
+- Desenvolvimento da identidade visual.
 
-**Tecnologias:** Java, Java Swing, JDBC, MySQL, Git e GitHub.
+**Tecnologias:** Java, Java Swing, JDBC, MySQL,
+Git e GitHub.
 
-🔗 [Consultar meus repositórios](https://github.com/ClaudioPachecoG)
+🔗 [Acessar meus repositórios](https://github.com/ClaudioPachecoG)
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência profissional
 
 **Auxiliar Administrativo | APAE de Cachoeira Paulista**
 
@@ -122,7 +136,7 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img
@@ -139,14 +153,6 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## 📫 Contato
-
-- **GitHub:** [ClaudioPachecoG](https://github.com/ClaudioPachecoG)
-- **E-mail:** claudiotsu09@gmail.com
-- **Certificados:** [Acessar certificados](https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt)
-
----
-
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
+  <i>Em constante aprendizado e desenvolvimento. 🚀</i>
 </p>
