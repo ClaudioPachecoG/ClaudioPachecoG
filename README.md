@@ -9,21 +9,26 @@
   Desenvolvimento de Software · Front-End · Design de Interfaces
 </p>
 
+
 <p align="center">
   <a href="https://github.com/ClaudioPachecoG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-   <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
+
+  <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
     <img src="https://img.shields.io/badge/Certificados-C9A227?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
   </a>
+
   <a href="https://www.instagram.com/claud_pachecog/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
   <a href="https://www.linkedin.com/in/claudio-pacheco-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://judge.beecrowd.com/pt/profile/1219073">
-    <img src="https://img.shields.io/badge/beecrowd-Perfil%20de%20Programação-2D6A4F?style=for-the-badge&logo=codeforces&logoColor=white" alt="beecrowd"/>
+    <img src="https://img.shields.io/badge/beecrowd-Perfil-6C3BAA?style=for-the-badge&logoColor=white" alt="beecrowd"/>
   </a>
 </p>
 
@@ -181,24 +186,6 @@ Outubro/2022 – Abril/2026
 - Emissão e conferência de recibos financeiros.
 - Organização e arquivamento de documentos físicos e digitais.
 - Atendimento ao público e esclarecimento de dúvidas.
-
----
-
-## 🏆 Desafios de programação
-
-Utilizo a plataforma beecrowd para praticar lógica de
-programação, desenvolver o raciocínio algorítmico e
-aprimorar minhas habilidades na resolução de problemas.
-
-<p align="center">
-  <a href="https://judge.beecrowd.com/pt/profile/1219073">
-    <img
-      src="https://img.shields.io/badge/beecrowd-Meu%20perfil-C9A227?style=for-the-badge"
-      alt="Perfil beecrowd"
-      title="Acesse meu perfil beecrowd"
-    />
-  </a>
-</p>
 
 ---
 
