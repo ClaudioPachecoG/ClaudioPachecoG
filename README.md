@@ -50,28 +50,29 @@ com soluções tecnológicas.
 
 ---
 
+
 ## 🧰 Linguagens e tecnologias
 
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/java.svg" width="40" height="40" title="Java" alt="Java"/>
-  <img src="https://devicons.io/devicons/icons/javascript.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/>
-  <img src="https://devicons.io/devicons/icons/csharp.svg" width="40" height="40" title="C#" alt="C Sharp"/>
-  <img src="https://devicons.io/devicons/icons/c.svg" width="40" height="40" title="C" alt="C"/>
-  <img src="https://devicons.io/devicons/icons/python.svg" width="40" height="40" title="Python" alt="Python"/>
-  <img src="https://devicons.io/devicons/icons/html5.svg" width="40" height="40" title="HTML5" alt="HTML5"/>
-  <img src="https://devicons.io/devicons/icons/css.svg" width="40" height="40" title="CSS3" alt="CSS3"/>
-  <img src="https://devicons.io/devicons/icons/mysql.svg" width="40" height="40" title="MySQL" alt="MySQL"/>
-  <img src="https://devicons.io/devicons/icons/sqlite.svg" width="40" height="40" title="SQLite" alt="SQLite"/>
-  <img src="https://devicons.io/devicons/icons/dotnet.svg" width="40" height="40" title=".NET" alt=".NET"/>
-  <img src="https://devicons.io/devicons/icons/visual-studio.svg" width="40" height="40" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code"/>
-  <img src="https://devicons.io/devicons/icons/eclipse.svg" width="40" height="40" title="Eclipse" alt="Eclipse"/>
-  <img src="https://devicons.io/devicons/icons/git.svg" width="40" height="40" title="Git" alt="Git"/>
-  <img src="https://devicons.io/devicons/icons/github.svg" width="40" height="40" title="GitHub" alt="GitHub"/>
-  <img src="https://devicons.io/devicons/icons/figma.svg" width="40" height="40" title="Figma" alt="Figma"/>
-  <img src="https://devicons.io/devicons/icons/canva.svg" width="40" height="40" title="Canva" alt="Canva"/>
-  <img src="https://devicons.io/devicons/icons/claude.svg" width="40" height="40" title="Claude" alt="Claude"/>
-  <img src="https://devicons.io/devicons/icons/claude-code.svg" width="40" height="40" title="Claude Code" alt="Claude Code"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=java&theme=dark" height="48" title="Java" alt="Java"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript&theme=dark" height="48" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=c&theme=dark" height="48" title="C" alt="C"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python&theme=dark" height="48" title="Python" alt="Python"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=html&theme=dark" height="48" title="HTML5" alt="HTML5"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=css&theme=dark" height="48" title="CSS3" alt="CSS3"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql&theme=dark" height="48" title="MySQL" alt="MySQL"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=sqlite&theme=dark" height="48" title="SQLite" alt="SQLite"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode&theme=dark" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=eclipse&theme=dark" height="48" title="Eclipse" alt="Eclipse"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=git&theme=dark" height="48" title="Git" alt="Git"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude&theme=dark" height="48" title="Claude" alt="Claude"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude&theme=dark" height="48" title="Claude Code" alt="Claude Code"/>
 </p>
 
 ---
