@@ -1,108 +1,152 @@
 
-# 👨🏻‍💻 Claudio Pacheco
+<h1 align="center">Olá! Eu sou Claudio Pacheco 👋</h1>
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+<h3 align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Fatec
+</h3>
 
-Olá! Me chamo Claudio Pacheco, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec. Tenho interesse em tecnologia e desenvolvimento de software, e estou construindo minha trajetória na área de TI por meio dos estudos e projetos acadêmicos.
+<p align="center">
+  Desenvolvedor em formação, interessado em tecnologia,
+  desenvolvimento de software e design de interfaces.
+</p>
 
-Atualmente, estou aprimorando meus conhecimentos em lógica de programação, Java, C e Engenharia de Software. Utilizo este espaço para compartilhar meus projetos, registrar minha evolução e desenvolver minhas habilidades.
-
----
-
-### 📚 Sobre mim
-
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na Fatec.
-- 💻 Estudando programação e desenvolvimento de sistemas.
-- 📂 Desenvolvendo projetos acadêmicos e pessoais.
-- 🚀 Construindo meu portfólio profissional.
-- 🎯 Em busca de oportunidades de estágio na área de TI.
-
----
-
-### 🛠️ Linguagens e Tecnologias
-
-<p align="left">
-    <img
-        alt="Java"
-        title="Java"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    />
-    <img
-        alt="C"
-        title="C"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-    />
-    <img
-        alt="Git"
-        title="Git"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />
-    <img
-        alt="GitHub"
-        title="GitHub"
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
+<p align="center">
+  <a href="https://github.com/ClaudioPachecoG">
+    <img src="https://img.shields.io/badge/GitHub-ClaudioPachecoG-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
+    <img src="https://img.shields.io/badge/Certificados-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
+  </a>
 </p>
 
 ---
 
-### 📂 Projetos em Destaque
+## 👨🏻‍💻 Sobre mim
 
-#### 🚗 Sistema de Estacionamento
+Me chamo Claudio Pacheco Mota Guedes e sou estudante de
+Análise e Desenvolvimento de Sistemas na Fatec Prof. Waldomiro May,
+em Cruzeiro/SP.
 
-Projeto acadêmico voltado ao desenvolvimento de um sistema de estacionamento.
+Tenho interesse em desenvolvimento de software, especialmente
+Java e JavaScript, além de Front-End, design de interfaces
+e identidade visual.
 
-🔗 [Acessar repositório](https://github.com/ClaudioPachecoG)
+Atualmente, participo de projetos acadêmicos em grupo,
+aplicando conhecimentos de programação, modelagem de sistemas
+e desenvolvimento de interfaces.
+
+Também possuo experiência profissional como Auxiliar Administrativo,
+com atuação em organização de dados, sistemas administrativos,
+documentação e atendimento.
+
+🎯 Busco oportunidades de estágio em Desenvolvimento de Software,
+para ampliar meus conhecimentos e contribuir com projetos reais.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Linguagens e Tecnologias
 
-<p>
-    <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8"
-    />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,js,cs,c,py,mysql,sqlite,dotnet,visualstudio,eclipse,git,github,figma&theme=dark"
+    alt="Java, JavaScript, C Sharp, C, Python, MySQL, SQLite, .NET, Visual Studio, Eclipse, Git, GitHub e Figma"
+  />
+</p>
+
+### Conhecimentos
+
+- **Linguagens principais:** Java e JavaScript.
+- **Em aprendizado:** C# e C.
+- **Conhecimentos básicos:** Python e SQL.
+- **Desenvolvimento:** Front-End, interfaces gráficas e POO.
+- **Banco de dados:** MySQL e SQLite.
+- **Versionamento:** Git e GitHub.
+- **Design:** Figma, Canva, identidade visual e prototipação.
+- **Modelagem:** UML e Astah.
+
+---
+
+## 🚀 Projetos Acadêmicos
+
+### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
+
+Sistema acadêmico em desenvolvimento para centralizar informações
+dos animais do Centro de Apoio ao Animal (CEAN), em Cruzeiro/SP.
+
+O projeto contempla cadastro de animais, gerenciamento de canil,
+localização, lares temporários e adoção, acompanhando o animal
+desde o registro até seu destino final.
+
+**Minha atuação:**
+- Desenvolvimento Front-End.
+- Design das interfaces.
+- Definição de paleta de cores e identidade visual.
+
+**Tecnologias:** C#, .NET MAUI, XAML, SQLite, Git e GitHub.
+
+🔗 [Consultar meus repositórios](https://github.com/ClaudioPachecoG)
+
+---
+
+### 🌱 Sistema de Monitoramento de Reflorestamento e Biodiversidade
+
+Projeto acadêmico em desenvolvimento voltado ao cadastro e
+monitoramento de áreas de reflorestamento, incluindo localização,
+espécies plantadas, evolução do plantio, fauna silvestre,
+registros fotográficos e indicadores estatísticos.
+
+Desenvolvido em parceria com a Collard, consultoria ambiental,
+e o Sindicato Rural de Cruzeiro.
+
+**Minha atuação:**
+- Desenvolvimento Front-End.
+- Design das interfaces.
+- Identidade visual.
+
+**Tecnologias:** Java, Java Swing, JDBC, MySQL, Git e GitHub.
+
+🔗 [Consultar meus repositórios](https://github.com/ClaudioPachecoG)
+
+---
+
+## 💼 Experiência Profissional
+
+**Auxiliar Administrativo | APAE de Cachoeira Paulista**
+
+Outubro/2022 – Abril/2026
+
+- Gestão e atualização de dados de contribuintes em sistemas administrativos.
+- Emissão e conferência de recibos financeiros.
+- Organização e arquivamento de documentos físicos e digitais.
+- Atendimento ao público e esclarecimento de dúvidas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-<p align="left">
-    <a href="https://github.com/ClaudioPachecoG">
-        <img
-            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="GitHub"
-        />
-    </a>
-</p>
+- **GitHub:** [ClaudioPachecoG](https://github.com/ClaudioPachecoG)
+- **E-mail:** claudiotsu09@gmail.com
+- **Certificados:** [Acessar certificados](https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt)
 
 ---
 
 <p align="center">
-    ✨ Obrigado por visitar meu perfil! ✨
+  Obrigado por visitar meu perfil! 🚀
 </p>
-
-<!--
-**ClaudioPachecoG/ClaudioPachecoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
