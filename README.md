@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/claudio-pacheco-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://judge.beecrowd.com/pt/profile/1219073">
+    <img src="https://img.shields.io/badge/beecrowd-Perfil%20de%20Programação-2D6A4F?style=for-the-badge&logo=codeforces&logoColor=white" alt="beecrowd"/>
+  </a>
 </p>
 
 ---
@@ -72,8 +75,6 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" title="Claude" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" title="Claude Code" alt="Claude Code"/>
   
 </p>
 
@@ -82,13 +83,13 @@ com soluções tecnológicas.
 ### Conhecimentos
 
 - **Linguagens principais:** Java e JavaScript.
-- **Em aprendizado:** C# e C.
-- **Conhecimentos básicos:** Python e SQL.
-- **Desenvolvimento:** Front-End, interfaces gráficas e POO.
+- **Em aprendizado:** C#.
+- **Conhecimentos básicos:** Python, C, HTML, CSS, PHP, SQL.
+- **Desenvolvimento:** Front-End e Interfaces gráficas.
 - **Banco de dados:** MySQL e SQLite.
 - **Versionamento:** Git e GitHub.
 - **Design:** Figma, Canva, identidade visual e prototipação.
-- **Modelagem de sistemas:** UML e Astah.
+- **Modelagem e prototipação:** Astah e Draw.io.
 
 ---
 
@@ -119,25 +120,54 @@ Git e GitHub.
 
 ### 🌱 Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
-Projeto acadêmico em desenvolvimento para o cadastro
-e monitoramento de áreas de reflorestamento.
+Projeto acadêmico desenvolvido individualmente, voltado ao
+cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
 
-A solução contempla informações sobre localização,
-espécies plantadas, evolução do plantio, fauna silvestre,
-registros fotográficos e indicadores estatísticos.
+A aplicação contempla informações sobre localização, espécies
+plantadas, evolução do plantio, fauna silvestre, registros
+fotográficos e indicadores estatísticos.
 
-O projeto é desenvolvido em parceria com a Collard,
+O projeto foi desenvolvido em parceria com a Collard,
 consultoria ambiental, e o Sindicato Rural de Cruzeiro.
 
-**Minha contribuição:**
-- Desenvolvimento de interfaces (Front-End).
-- Criação e prototipação das interfaces.
-- Desenvolvimento da identidade visual.
+**Minha atuação:**
+- Desenvolvimento individual da aplicação (Full Stack).
+- Implementação da interface e da lógica da aplicação.
+- Integração com banco de dados.
+- Desenvolvimento das funcionalidades e estrutura do sistema.
 
 **Tecnologias:** Java, Java Swing, JDBC, MySQL,
 Git e GitHub.
 
-🔗 [Acessar meus repositórios](https://github.com/ClaudioPachecoG)
+🔗 [Acessar repositório](LINK_DO_REPOSITORIO)
+
+---
+
+### 🚗 Sistema de Estacionamento
+
+Projeto acadêmico de desenvolvimento de um sistema
+de estacionamento.
+
+**Minha atuação:**
+- Descrição da participação a ser adicionada.
+
+**Tecnologias:** A definir.
+
+🔗 [Acessar repositório](LINK_DO_REPOSITORIO)
+
+---
+
+### ♻️ Descarte Solidário
+
+Projeto acadêmico voltado à proposta de uma solução
+tecnológica relacionada ao descarte solidário.
+
+**Minha atuação:**
+- Descrição da participação a ser adicionada.
+
+**Tecnologias:** A definir.
+
+🔗 [Acessar repositório](LINK_DO_REPOSITORIO)
 
 ---
 
@@ -154,17 +184,35 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🏆 Desafios de programação
+
+Utilizo a plataforma beecrowd para praticar lógica de
+programação, desenvolver o raciocínio algorítmico e
+aprimorar minhas habilidades na resolução de problemas.
+
+<p align="center">
+  <a href="https://judge.beecrowd.com/pt/profile/1219073">
+    <img
+      src="https://img.shields.io/badge/beecrowd-Meu%20perfil-C9A227?style=for-the-badge"
+      alt="Perfil beecrowd"
+      title="Acesse meu perfil beecrowd"
+    />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
     alt="Estatísticas do GitHub"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&cache_seconds=86400"
     alt="Linguagens mais utilizadas"
   />
 </p>
