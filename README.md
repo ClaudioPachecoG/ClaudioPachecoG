@@ -13,8 +13,8 @@
   <a href="https://github.com/ClaudioPachecoG">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
-    <img src="https://img.shields.io/badge/Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
+   <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
+    <img src="https://img.shields.io/badge/Certificados-C9A227?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
   </a>
   <a href="https://www.instagram.com/claud_pachecog/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
