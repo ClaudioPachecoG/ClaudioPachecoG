@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Desenvolvimento de software · Front-End · Design de interfaces
+  Desenvolvimento de Software · Front-End · Design de Interfaces
 </p>
 
 <p align="center">
@@ -16,9 +16,6 @@
   <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">
     <img src="https://img.shields.io/badge/Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/claud_pachecog/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -34,9 +31,10 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na
 Fatec Prof. Waldomiro May, em Cruzeiro/SP.
 
-Tenho interesse em desenvolvimento de software, especialmente
-em Java e JavaScript, além de desenvolvimento Front-End,
-design de interfaces e identidade visual.
+Estou aprimorando meus conhecimentos em desenvolvimento de
+software, com foco em Java e JavaScript, e desenvolvendo 
+habilidades em Front-End, design de interfaces e identidade 
+visual por meio de projetos acadêmicos e práticos.
 
 Atualmente, participo de projetos acadêmicos em grupo,
 nos quais aplico conhecimentos de programação, modelagem
@@ -46,7 +44,7 @@ Também possuo experiência profissional como Auxiliar
 Administrativo, com atuação em organização de dados,
 sistemas administrativos, documentação e atendimento.
 
-🎯 Busco uma oportunidade de estágio em Desenvolvimento
+Busco uma oportunidade de estágio em Desenvolvimento
 de Software para ampliar meus conhecimentos e contribuir
 com soluções tecnológicas.
 
