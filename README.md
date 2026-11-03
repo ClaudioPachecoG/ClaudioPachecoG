@@ -72,7 +72,8 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude&theme=dark" height="48" title="Claude" alt="Claude"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=claudecode&theme=dark" height="48" title="Claude Code" alt="Claude Code"/>
+  <img src="https://cdn.simpleicons.org/claudecode" height="48" title="Claude Code" alt="Claude Code"/>
+
 </p>
 
 ---
