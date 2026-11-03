@@ -63,18 +63,16 @@ com soluções tecnológicas.
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" title="MySQL" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40" title="SQLite" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="40" title=".NET" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET" alt=".NET"/>
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="Visual Studio Code" alt="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="40" title="Eclipse" alt="Eclipse"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" alt="Figma"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" title="Canva" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" title="Claude" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Claude_Code-282828?style=flat-square&logo=anthropic&logoColor=white" title="Claude Code" alt="Claude Code"/>
+  <img src="https://cdn.simpleicons.org/canva/6C63FF" width="40" title="Canva" alt="Canva"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" title="Claude" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" title="Claude Code" alt="Claude Code"/>
 </p>
 
 ---
