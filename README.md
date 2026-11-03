@@ -23,9 +23,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/claudio-pacheco-/" target="_blank">
-    <img src="./assets/linkedin.png" alt="LinkedIn" width="48" height="48">
-  </a>
+<a href="https://www.linkedin.com/in/claudio-pacheco-/" target="_blank">
+  <img src="./assets/linkedin.png" alt="LinkedIn"
+       width="20" height="20"
+       style="vertical-align: middle; border-radius: 4px;">
+</a>
   
   <a href="https://judge.beecrowd.com/pt/profile/1219073">
     <img src="https://img.shields.io/badge/beecrowd-6C3BAA?style=for-the-badge&logoColor=white" alt="beecrowd"/>
