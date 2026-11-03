@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Desenvolvimento de Software · Front-End · Design de Interfaces
+  Desenvolvimento de Software · Front-End · Identidade Visual
 </p>
 
 
