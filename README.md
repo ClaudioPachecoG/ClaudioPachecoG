@@ -99,8 +99,6 @@ com soluções tecnológicas.
 
 ## 🚀 Projetos acadêmicos
 
----
-
 ### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
 
 Projeto acadêmico em desenvolvimento para centralizar
@@ -195,12 +193,12 @@ Outubro/2022 – Abril/2026
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://githubreadmestatsfast.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&cache_seconds=86400"
+    src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
     alt="Linguagens mais utilizadas"
   />
 </p>
