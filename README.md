@@ -193,13 +193,11 @@ Outubro/2022 – Abril/2026
 <p align="center">
   <img
     height="180"
-    width="500"
-    src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26"
+    src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26&card_width=520"
     alt="Estatísticas do GitHub"
   />
   <img
     height="180"
-    width="320"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26&card_width=320"
     alt="Linguagens mais utilizadas"
   />
