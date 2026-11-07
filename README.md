@@ -33,7 +33,7 @@
 
 ---
 
-## 👨🏻‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na
 Fatec Prof. Waldomiro May, em Cruzeiro/SP.
@@ -58,7 +58,7 @@ com soluções tecnológicas.
 ---
 
 
-## 🧰 Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=java&theme=dark" height="48" title="Java" alt="Java"/>
@@ -69,6 +69,7 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=html&theme=dark" height="48" title="HTML5" alt="HTML5"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=css&theme=dark" height="48" title="CSS3" alt="CSS3"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=php&theme=dark" height="48" title="PHP" alt="PHP"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql&theme=dark" height="48" title="MySQL" alt="MySQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=sqlite&theme=dark" height="48" title="SQLite" alt="SQLite"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
@@ -97,9 +98,9 @@ com soluções tecnológicas.
 
 ---
 
-## 🚀 Projetos 
+## Projetos 
 
-### 🐾 Sistema de Gestão e Rastreamento de Animais — CEAN
+### Sistema de Gestão e Rastreamento de Animais — CEAN
 
 Projeto acadêmico em desenvolvimento para centralizar
 as informações dos animais do Centro de Apoio ao Animal
@@ -122,7 +123,7 @@ Git e GitHub.
 
 ---
 
-### 🌱 Sistema de Monitoramento de Reflorestamento e Biodiversidade
+### Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
 Projeto acadêmico desenvolvido individualmente, voltado ao
 cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
@@ -147,7 +148,7 @@ Git e GitHub.
 
 ---
 
-### 🚗 Sistema de Estacionamento
+### Sistema de Estacionamento
 
 Projeto acadêmico de desenvolvimento de um sistema
 de estacionamento.
@@ -161,7 +162,7 @@ de estacionamento.
 
 ---
 
-### ♻️ Descarte Solidário
+### Descarte Solidário
 
 Projeto acadêmico voltado à proposta de uma solução
 tecnológica relacionada ao descarte solidário.
@@ -175,7 +176,7 @@ tecnológica relacionada ao descarte solidário.
 
 ---
 
-## 💼 Experiência profissional
+## Experiência profissional
 
 **Auxiliar Administrativo | APAE de Cachoeira Paulista**
 
@@ -188,7 +189,7 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img
@@ -206,5 +207,5 @@ Outubro/2022 – Abril/2026
 ---
 
 <p align="center">
-  <i>Em constante aprendizado e desenvolvimento. 🚀</i>
+  <i>Em constante aprendizado e desenvolvimento.</i>
 </p>
