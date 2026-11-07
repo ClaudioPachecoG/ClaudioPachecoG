@@ -190,15 +190,19 @@ Outubro/2022 – Abril/2026
 
 ## Estatísticas do GitHub
 
+<h3 align="center">
+  Claudio Pacheco Mota Guedes
+</h3>
+
 <p align="center">
   <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="430"
+    src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&include_all_commits=true&locale=pt-br&hide_title=true&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26"
     alt="Estatísticas do GitHub"
   />
   <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    width="320"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26&card_width=320"
     alt="Linguagens mais utilizadas"
   />
 </p>
