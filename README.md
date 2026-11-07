@@ -88,13 +88,12 @@ com soluções tecnológicas.
 ### Conhecimentos
 
 - **Linguagens principais:** Java e JavaScript.
-- **Em aprendizado:** C#.
-- **Conhecimentos básicos:** Python, C, HTML, CSS, PHP, SQL.
-- **Desenvolvimento:** Front-End e Interfaces gráficas.
-- **Banco de dados:** MySQL e SQLite.
+- **Conhecimentos básicos:** Python, C, C#, HTML, CSS, PHP e SQL.
+- **Desenvolvimento:** Front-End e Interfaces Gráficas.
+- **Banco de dados:** PostgreSQL, MySQL e SQLite.
 - **Versionamento:** Git e GitHub.
-- **Design:** Figma, Canva, identidade visual e prototipação.
-- **Modelagem e prototipação:** Astah e Draw.io.
+- **Design:** Figma, Canva, Identidade Visual e Prototipação.
+- **Modelagem e Prototipação:** Astah e Draw.io.
 
 ---
 
@@ -189,7 +188,7 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img
