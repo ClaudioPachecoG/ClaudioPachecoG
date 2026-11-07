@@ -189,17 +189,17 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
     height="180"
-    src="https://githubreadmestatsfast.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
   <img
     height="180"
-    src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ClaudioPachecoG&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
     alt="Linguagens mais utilizadas"
   />
 </p>
