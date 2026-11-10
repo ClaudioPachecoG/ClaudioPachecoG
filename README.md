@@ -183,7 +183,10 @@ tecnológica relacionada ao descarte solidário.
 
 ---
 
-## Experiência profissional
+<h2>
+  <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23FB923C" width="26"/>
+  Experiência profissional
+</h2>
 
 **Auxiliar Administrativo | APAE de Cachoeira Paulista**
 
