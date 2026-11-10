@@ -1,7 +1,11 @@
-<h1 align="center">Claudio Pacheco Mota Guedes</h1>  <h3 align="center">  
+<h1 align="center">Claudio Pacheco Mota Guedes</h1>
+
+<h3 align="center">  
   Estudante de Análise e Desenvolvimento de Sistemas | Fatec  
+
 </h3>  <p align="center">  
-  Desenvolvimento de Software · Front-End · Identidade Visual  
+  Desenvolvimento de Software · Front-End · Identidade Visual
+  
 </p>  <p align="center">  
   <a href="https://github.com/ClaudioPachecoG">  
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
@@ -13,13 +17,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/>  
 </a>  <a href="https://judge.beecrowd.com/pt/profile/1219073">  
   <img src="https://img.shields.io/badge/beecrowd-6C3BAA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjM2IDIyIDMxOCAyOTYiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTI5NiA5MkgxMzJMNTQgMTkyTDEzMiAzMDBIMjg4TDMxOCAyNTIiLz48cGF0aCBkPSJNMjk2IDkyTDMyMiAxNTAiLz48cGF0aCBkPSJNMjA1IDExOEwyNTYgMTk1TDIwNSAyNzhMMTU0IDE5NVoiLz48cGF0aCBkPSJNMTE3IDQwTDEzNSA3ME0xNjggNDBMMTg2IDcwIi8%2BPC9nPjxjaXJjbGUgY3g9IjMzNCIgY3k9IjE5MCIgcj0iMTUiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoSize=auto" alt="beecrowd"/>  
-</a>  
+</a>
+
 ---
 
 <h2>  
   <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338BDF8" width="26"/>  
   Sobre mim  
-</h2>  Sou estudante de Análise e Desenvolvimento de Sistemas na
+</h2>
+Sou estudante de Análise e Desenvolvimento de Sistemas na
 Fatec Prof. Waldomiro May, em Cruzeiro/SP.
 
 Estou aprimorando meus conhecimentos em desenvolvimento de
@@ -39,13 +45,13 @@ Busco uma oportunidade de estágio em Desenvolvimento
 de Software para ampliar meus conhecimentos e contribuir
 com soluções tecnológicas.
 
-
 ---
 
 <h2>  
   <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="26"/>  
   Linguagens e tecnologias  
-</h2>  <p align="center">  
+</h2>  <p align="center">
+  
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=java&theme=dark" height="48" title="Java" alt="Java"/>  
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=javascript&theme=dark" height="48" title="JavaScript" alt="JavaScript"/>  
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>  
@@ -64,13 +70,16 @@ com soluções tecnológicas.
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=git&theme=dark" height="48" title="Git" alt="Git"/>  
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>  
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=figma&theme=dark" height="48" title="Figma" alt="Figma"/>  
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>  </p>  
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=canva&theme=dark" height="48" title="Canva" alt="Canva"/>  </p>
+ 
 ---
 
 <h2>  
   <img src="https://api.iconify.design/lucide/brain.svg?color=%23F472B6" width="26"/>  
   Conhecimentos  
-</h2>  - Linguagens principais: Java e JavaScript.
+</h2>
+
+- Linguagens principais: Java e JavaScript.
 - Conhecimentos básicos: Python, C, C#, HTML, CSS, PHP e SQL.
 - Desenvolvimento: Front-End e Interfaces Gráficas.
 - Banco de dados: PostgreSQL, MySQL e SQLite.
@@ -78,10 +87,12 @@ com soluções tecnológicas.
 - Design: Figma, Canva, Identidade Visual e Prototipação.
 - Modelagem e Prototipação: Astah e Draw.io.
 
-
 ---
 
-<img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/> Projetos
+<h2>  
+  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/>  
+  Projetos  
+</h2>
 
 <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="22"/> Sistema de Gestão e Rastreamento de Animais
 
@@ -94,6 +105,8 @@ Sistema desenvolvido para auxiliar a gestão e o acompanhamento de animais, cont
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_CEAN)
 
+
+
 <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
 Parceria: Collard Consultoria Ambiental e Sindicato Rural — Cruzeiro/SP
@@ -105,6 +118,8 @@ Sistema voltado ao cadastro e monitoramento de áreas de reflorestamento e biodi
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_REFLORESTAMENTO)
 
+
+
 <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
 
 Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, com funcionalidades relacionadas ao controle de veículos e à organização dos registros.
@@ -113,6 +128,8 @@ Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, c
 - Tecnologias: [INSERIR TECNOLOGIAS UTILIZADAS].
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_ESTACIONAMENTO)
+
+
 
 <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
 
@@ -130,7 +147,8 @@ Projeto com foco na conscientização e organização do descarte adequado de ma
   <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23FB923C" width="26"/>  
   Experiência profissional  
 </h2>  
----  Auxiliar Administrativo | APAE de Cachoeira Paulista
+
+Auxiliar Administrativo | APAE de Cachoeira Paulista
 
 Outubro/2022 – Abril/2026
 
@@ -146,7 +164,8 @@ Outubro/2022 – Abril/2026
   <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%232563EB" width="26"/>  
   Estatísticas  
 </h2>  <p align="center">  
-  <img  
+  
+<img  
     height="180"  
     src="https://github-stats-extended.vercel.app/api?username=ClaudioPachecoG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=7AA2F7&text_color=7DCFFF&icon_color=BB9AF7&border_color=414868&bg_color=1A1B26&card_width=520"  
     alt="Estatísticas do GitHub"  
