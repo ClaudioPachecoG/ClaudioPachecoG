@@ -84,10 +84,13 @@ com soluções tecnológicas.
 <h2>  
   <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/>  
   Projetos  
-</h2>  <h2>  
+</h2>  
+
+<h2>  
   <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="28"/>  
   Sistema de Gestão e Rastreamento de Animais  
-</h2>  Projeto acadêmico em desenvolvimento para centralizar
+</h2>
+Projeto acadêmico em desenvolvimento para centralizar
 as informações dos animais do Centro de Apoio ao Animal
 (CEAN), em Cruzeiro/SP.
 
@@ -113,7 +116,8 @@ Git e GitHub.
 <h2>  
   <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="28"/>  
   Sistema de Monitoramento de Reflorestamento e Biodiversidade  
-<h2>  Projeto acadêmico desenvolvido individualmente, voltado ao
+<h2>
+Projeto acadêmico desenvolvido individualmente, voltado ao
 cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
 
 A aplicação contempla informações sobre localização, espécies
@@ -141,7 +145,8 @@ Git e GitHub.
 <h2>  
   <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="28"/>  
   Sistema de Estacionamento  
-<h2>  Projeto acadêmico de desenvolvimento de um sistema
+<h2>
+Projeto acadêmico de desenvolvimento de um sistema
 de estacionamento.
 
 Minha atuação:
@@ -158,7 +163,8 @@ Tecnologias: A definir.
 <h2>  
   <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="28"/>  
   Descarte Solidário  
-<h2>  Projeto acadêmico voltado à proposta de uma solução
+<h2>
+Projeto acadêmico voltado à proposta de uma solução
 tecnológica relacionada ao descarte solidário.
 
 Minha atuação:
@@ -205,4 +211,6 @@ Outubro/2022 – Abril/2026
 </p>  
 ---
 
-￼ Em constante aprendizado e desenvolvimento.
+<p align="center">  
+  <i> <img src="https://api.iconify.design/lucide/trending-up.svg?color=%2322D3EE" width="28"/>  
+</p> Em constante aprendizado e desenvolvimento.</i>  
