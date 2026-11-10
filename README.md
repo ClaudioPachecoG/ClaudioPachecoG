@@ -81,99 +81,47 @@ com soluções tecnológicas.
 
 ---
 
-<h2>  
-  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/>  
-  Projetos  
-</h2>  
+<img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/> Projetos
 
-<h2>  
-  <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="28"/>  
-  Sistema de Gestão e Rastreamento de Animais  
-</h2>
-Projeto acadêmico em desenvolvimento para centralizar
-as informações dos animais do Centro de Apoio ao Animal
-(CEAN), em Cruzeiro/SP.
+<img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="22"/> Sistema de Gestão e Rastreamento de Animais
 
-A proposta contempla o cadastro e o acompanhamento dos
-animais, incluindo informações sobre canil, localização,
-lares temporários e adoção, desde o registro até seu
-destino final.
+Instituição parceira: CEAN — Cruzeiro/SP
 
-Minha contribuição:
+Sistema desenvolvido para auxiliar a gestão e o acompanhamento de animais, contribuindo para a organização de informações, controle do canil, localização, acompanhamento de animais sem tutor e processos de adoção e lares temporários.
 
-- Desenvolvimento de interfaces (Front-End).
-- Criação e prototipação das interfaces.
-- Definição da paleta de cores e identidade visual.
+- Participação: desenvolvimento de interfaces, organização visual e identidade do sistema.
+- Tecnologias: C#, .NET MAUI, XAML, SQLite e Git/GitHub.
 
-Tecnologias: C#, .NET MAUI, XAML, SQLite,
-Git e GitHub.
+"Repositório do projeto" (LINK_DO_REPOSITORIO_CEAN)
 
-🔗 Acessar meus repositórios
+<img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
+Parceria: Collard Consultoria Ambiental e Sindicato Rural — Cruzeiro/SP
 
----
+Sistema voltado ao cadastro e monitoramento de áreas de reflorestamento e biodiversidade, permitindo acompanhar informações sobre localização, espécies plantadas, evolução do plantio, fauna silvestre, registros fotográficos e indicadores estatísticos.
 
-<h2>  
-  <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="28"/>  
-  Sistema de Monitoramento de Reflorestamento e Biodiversidade  
-<h2>
-Projeto acadêmico desenvolvido individualmente, voltado ao
-cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
+- Participação: desenvolvimento Full Stack, implementação de interfaces, lógica da aplicação e integração com banco de dados.
+- Tecnologias: Java, Java Swing, JDBC, MySQL e Git/GitHub.
 
-A aplicação contempla informações sobre localização, espécies
-plantadas, evolução do plantio, fauna silvestre, registros
-fotográficos e indicadores estatísticos.
+"Repositório do projeto" (LINK_DO_REPOSITORIO_REFLORESTAMENTO)
 
-O projeto foi desenvolvido em parceria com a Collard,
-consultoria ambiental, e o Sindicato Rural de Cruzeiro.
+<img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
 
-Minha atuação:
+Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, com funcionalidades relacionadas ao controle de veículos e à organização dos registros.
 
-- Desenvolvimento individual da aplicação (Full Stack).
-- Implementação da interface e da lógica da aplicação.
-- Integração com banco de dados.
-- Desenvolvimento das funcionalidades e estrutura do sistema.
+- Participação: desenvolvimento e documentação do sistema.
+- Tecnologias: [INSERIR TECNOLOGIAS UTILIZADAS].
 
-Tecnologias: Java, Java Swing, JDBC, MySQL,
-Git e GitHub.
+"Repositório do projeto" (LINK_DO_REPOSITORIO_ESTACIONAMENTO)
 
-🔗 Acessar repositório
+<img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
 
+Projeto com foco na conscientização e organização do descarte adequado de materiais, incentivando práticas sustentáveis e facilitando o acesso a informações sobre descarte.
 
----
+- Participação: [INSERIR SUA CONTRIBUIÇÃO].
+- Tecnologias: [INSERIR TECNOLOGIAS UTILIZADAS].
 
-<h2>  
-  <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="28"/>  
-  Sistema de Estacionamento  
-<h2>
-Projeto acadêmico de desenvolvimento de um sistema
-de estacionamento.
-
-Minha atuação:
-
-- Descrição da participação a ser adicionada.
-
-Tecnologias: A definir.
-
-🔗 Acessar repositório
-
-
----
-
-<h2>  
-  <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="28"/>  
-  Descarte Solidário  
-<h2>
-Projeto acadêmico voltado à proposta de uma solução
-tecnológica relacionada ao descarte solidário.
-
-Minha atuação:
-
-- Descrição da participação a ser adicionada.
-
-Tecnologias: A definir.
-
-🔗 Acessar repositório
+"Repositório do projeto" (LINK_DO_REPOSITORIO_DESCARTE)
 
 
 ---
