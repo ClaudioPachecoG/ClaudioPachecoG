@@ -105,7 +105,7 @@ Sistema desenvolvido para auxiliar a gestão e o acompanhamento de animais, cont
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_CEAN)
 
-
+/>
 
 <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
 
@@ -118,7 +118,7 @@ Sistema voltado ao cadastro e monitoramento de áreas de reflorestamento e biodi
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_REFLORESTAMENTO)
 
-
+/>
 
 <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
 
@@ -129,7 +129,7 @@ Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, c
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_ESTACIONAMENTO)
 
-
+/>
 
 <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
 
@@ -179,5 +179,4 @@ Outubro/2022 – Abril/2026
 ---
 
 <p align="center">  
-  <i> <img src="https://api.iconify.design/lucide/trending-up.svg?color=%2322D3EE" width="28"/>  
-</p> Em constante aprendizado e desenvolvimento.</i>  
+  <i> <img src="https://api.iconify.design/lucide/trending-up.svg?color=%2322D3EE" width="28"/> Em constante aprendizado e desenvolvimento.</i>  
