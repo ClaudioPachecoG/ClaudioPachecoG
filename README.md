@@ -96,9 +96,6 @@ com soluções tecnológicas.
 
 <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="22"/> Sistema de Gestão e Rastreamento de Animais
 
-<p align="center">
-  <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
-</p>
 
 Instituição parceira: CEAN — Cruzeiro/SP
 
@@ -109,12 +106,12 @@ Sistema desenvolvido para auxiliar a gestão e o acompanhamento de animais, cont
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_CEAN)
 
-
-<img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
+
+<img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
+
 
 Parceria: Collard Consultoria Ambiental e Sindicato Rural — Cruzeiro/SP
 
@@ -125,12 +122,12 @@ Sistema voltado ao cadastro e monitoramento de áreas de reflorestamento e biodi
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_REFLORESTAMENTO)
 
-
-<img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
+
+<img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
+
 
 Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, com funcionalidades relacionadas ao controle de veículos e à organização dos registros.
 
@@ -139,12 +136,12 @@ Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, c
 
 "Repositório do projeto" (LINK_DO_REPOSITORIO_ESTACIONAMENTO)
 
-
-<img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
+
+<img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
+
 
 Projeto com foco na conscientização e organização do descarte adequado de materiais, incentivando práticas sustentáveis e facilitando o acesso a informações sobre descarte.
 
