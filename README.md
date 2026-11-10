@@ -57,8 +57,10 @@ com soluções tecnológicas.
 
 ---
 
-
-## Linguagens e tecnologias
+<h2>
+  <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="26"/>
+  Linguagens e tecnologias
+</h2>
 
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=java&theme=dark" height="48" title="Java" alt="Java"/>
