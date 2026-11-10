@@ -95,7 +95,6 @@ com soluções tecnológicas.
 </h2>
 
 <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="22"/> Sistema de Gestão e Rastreamento de Animais
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
@@ -114,7 +113,6 @@ Sistema desenvolvido para auxiliar a gestão e o acompanhamento de animais, cont
 </p>
 
 <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="22"/> Sistema de Monitoramento de Reflorestamento e Biodiversidade
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
@@ -133,7 +131,6 @@ Sistema voltado ao cadastro e monitoramento de áreas de reflorestamento e biodi
 </p>
 
 <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="26"/> Sistema de Gerenciamento de Estacionamento
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
@@ -150,7 +147,6 @@ Projeto acadêmico voltado ao gerenciamento das operações de estacionamento, c
 </p>
 
 <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="22"/> Descarte Solidário
-
 <p align="center">
   <img src="https://placehold.co/1200x1/30363D/30363D.png" width="100%" height="1">
 </p>
