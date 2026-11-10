@@ -91,7 +91,7 @@ com soluções tecnológicas.
 ---
 
 <h2>
-  <img src="https://api.iconify.design/lucide/brain.svg?color=%23FBBF24" width="26"/>
+  <img src="https://api.iconify.design/lucide/brain.svg?color=%23F472B6" width="26"/>
   Conhecimentos
 </h2>
 
@@ -105,9 +105,15 @@ com soluções tecnológicas.
 
 ---
 
-## Projetos 
+<h2>
+  <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/>
+  Projetos
+</h2>
 
-### Sistema de Gestão e Rastreamento de Animais — CEAN
+<h2>
+  <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="28"/>
+  Sistema de Gestão e Rastreamento de Animais
+</h2>
 
 Projeto acadêmico em desenvolvimento para centralizar
 as informações dos animais do Centro de Apoio ao Animal
@@ -130,7 +136,10 @@ Git e GitHub.
 
 ---
 
-### Sistema de Monitoramento de Reflorestamento e Biodiversidade
+<h2>
+  <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="28"/>
+  Sistema de Monitoramento de Reflorestamento e Biodiversidade
+<h2>
 
 Projeto acadêmico desenvolvido individualmente, voltado ao
 cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
@@ -155,7 +164,10 @@ Git e GitHub.
 
 ---
 
-### Sistema de Estacionamento
+<h2>
+  <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="28"/>
+  Sistema de Estacionamento
+<h2>
 
 Projeto acadêmico de desenvolvimento de um sistema
 de estacionamento.
@@ -169,7 +181,10 @@ de estacionamento.
 
 ---
 
-### Descarte Solidário
+<h2>
+  <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="28"/>
+  Descarte Solidário
+<h2>
 
 Projeto acadêmico voltado à proposta de uma solução
 tecnológica relacionada ao descarte solidário.
@@ -199,7 +214,10 @@ Outubro/2022 – Abril/2026
 
 ---
 
-## Estatísticas do GitHub
+<h2>
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%232563EB" width="26"/>
+  Estatísticas
+</h2>
 
 <p align="center">
   <img
