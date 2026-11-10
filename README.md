@@ -90,7 +90,10 @@ com soluções tecnológicas.
 
 ---
 
-### Conhecimentos
+<h2>
+  <img src="https://api.iconify.design/lucide/brain.svg?color=%23FBBF24" width="26"/>
+  Conhecimentos
+</h2>
 
 - **Linguagens principais:** Java e JavaScript.
 - **Conhecimentos básicos:** Python, C, C#, HTML, CSS, PHP e SQL.
