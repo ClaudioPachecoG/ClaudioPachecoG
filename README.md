@@ -33,7 +33,10 @@
 
 ---
 
-## Sobre mim
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338BDF8" width="26"/>
+  Sobre mim
+</h2>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na
 Fatec Prof. Waldomiro May, em Cruzeiro/SP.
