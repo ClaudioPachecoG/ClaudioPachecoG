@@ -1,6 +1,5 @@
 
 <h1 align="center">Claudio Pacheco Mota Guedes</h1>
----
 
 <h3 align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Fatec
@@ -38,7 +37,6 @@
   <img src="https://api.iconify.design/lucide/user-round.svg?color=%2338BDF8" width="26"/>
   Sobre mim
 </h2>
----
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na
 Fatec Prof. Waldomiro May, em Cruzeiro/SP.
@@ -66,7 +64,6 @@ com soluções tecnológicas.
   <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="26"/>
   Linguagens e tecnologias
 </h2>
----
 
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=java&theme=dark" height="48" title="Java" alt="Java"/>
@@ -97,7 +94,6 @@ com soluções tecnológicas.
   <img src="https://api.iconify.design/lucide/brain.svg?color=%23F472B6" width="26"/>
   Conhecimentos
 </h2>
----
 
 - **Linguagens principais:** Java e JavaScript.
 - **Conhecimentos básicos:** Python, C, C#, HTML, CSS, PHP e SQL.
@@ -113,13 +109,11 @@ com soluções tecnológicas.
   <img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23F87171" width="26"/>
   Projetos
 </h2>
----
 
 <h2>
   <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23FACC15" width="28"/>
   Sistema de Gestão e Rastreamento de Animais
 </h2>
----
 
 Projeto acadêmico em desenvolvimento para centralizar
 as informações dos animais do Centro de Apoio ao Animal
@@ -146,7 +140,6 @@ Git e GitHub.
   <img src="https://api.iconify.design/lucide/trees.svg?color=%234ADE80" width="28"/>
   Sistema de Monitoramento de Reflorestamento e Biodiversidade
 <h2>
----
 
 Projeto acadêmico desenvolvido individualmente, voltado ao
 cadastro e monitoramento de áreas de reflorestamento e biodiversidade.
@@ -175,7 +168,6 @@ Git e GitHub.
   <img src="https://api.iconify.design/lucide/car-front.svg?color=%23C0C7D1" width="28"/>
   Sistema de Estacionamento
 <h2>
----
 
 Projeto acadêmico de desenvolvimento de um sistema
 de estacionamento.
@@ -193,7 +185,6 @@ de estacionamento.
   <img src="https://api.iconify.design/lucide/recycle.svg?color=%23FB923C" width="28"/>
   Descarte Solidário
 <h2>
----
 
 Projeto acadêmico voltado à proposta de uma solução
 tecnológica relacionada ao descarte solidário.
@@ -228,7 +219,6 @@ Outubro/2022 – Abril/2026
   <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%232563EB" width="26"/>
   Estatísticas
 </h2>
----
 
 <p align="center">
   <img
@@ -247,4 +237,5 @@ Outubro/2022 – Abril/2026
 
 <p align="center">
   <i>Em constante aprendizado e desenvolvimento.</i>
+<img src="https://api.iconify.design/lucide/trending-up.svg?color=%2322D3EE" width="28"/>
 </p>
