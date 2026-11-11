@@ -9,17 +9,13 @@
 </p>  <p align="center">  
   <a href="https://github.com/ClaudioPachecoG">  
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    
-  </a>    <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">  
+    </a>    <a href="https://drive.google.com/drive/folders/10vvjJE6QdMg2zDFAqcFOhuPFMHwXsdXt">  
     <img src="https://img.shields.io/badge/Certificados-C9A227?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
-    
-  </a>    <a href="https://www.instagram.com/claud_pachecog/">  
+    </a>    <a href="https://www.instagram.com/claud_pachecog/">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    
-  </a>   <a href="https://www.linkedin.com/in/claudio-pacheco-/">
+    </a>   <a href="https://www.linkedin.com/in/claudio-pacheco-/">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"/>
-  
-</a>  <a href="https://judge.beecrowd.com/pt/profile/1219073">  
+  </a>  <a href="https://judge.beecrowd.com/pt/profile/1219073">  
   <img src="https://img.shields.io/badge/beecrowd-6C3BAA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjM2IDIyIDMxOCAyOTYiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTI5NiA5MkgxMzJMNTQgMTkyTDEzMiAzMDBIMjg4TDMxOCAyNTIiLz48cGF0aCBkPSJNMjk2IDkyTDMyMiAxNTAiLz48cGF0aCBkPSJNMjA1IDExOEwyNTYgMTk1TDIwNSAyNzhMMTU0IDE5NVoiLz48cGF0aCBkPSJNMTE3IDQwTDEzNSA3ME0xNjggNDBMMTg2IDcwIi8%2BPC9nPjxjaXJjbGUgY3g9IjMzNCIgY3k9IjE5MCIgcj0iMTUiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoSize=auto" alt="beecrowd"/>  
 </a>
 
