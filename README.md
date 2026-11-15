@@ -4,7 +4,7 @@
   Estudante de Análise e Desenvolvimento de Sistemas | Fatec  
 
 </h3>  <p align="center">  
-  Desenvolvimento de Software · Front-End · Identidade Visual
+  Desenvolvimento de Software · Front-End · Design
   
 </p>  <p align="center">  
   <a href="https://github.com/ClaudioPachecoG">  
